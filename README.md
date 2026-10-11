@@ -1,110 +1,55 @@
 # Personal Introduction Page
 
-## Project Overview
+## Veda Technology Internship — Task 2
 
-The Personal Introduction Page is a responsive website developed as part of the Veda Technology Web Development Internship, Task 2 (Level 1, Day 2).
+### Project Overview
+This project is a responsive Personal Introduction Page developed using HTML5 and CSS3 as part of the Veda Technology Web Development Internship. It introduces me, highlights my skills and hobbies, and provides contact information.
 
-The website introduces the author and presents information about their background, technical skills, hobbies, and contact details. It uses HTML5 and CSS3 to create a simple, clean, and user-friendly design.
+### Features
+- Responsive design for desktop and mobile devices
+- Navigation links to different sections
+- Personal introduction with a profile image
+- About Me section
+- Skills section
+- Hobbies section
+- Contact section with an email link
+- Smooth scrolling and interactive button effects
+- Accessible navigation and image alternative text
 
-## Objectives
+### Technologies Used
+- HTML5
+- CSS3
+- GitHub
+- GitHub Pages
 
-- Practice basic HTML5 elements and semantic structure.
-- Learn CSS3 selectors, colors, spacing, and typography.
-- Build a single-page personal introduction website.
-- Create a responsive layout for desktop, tablet, and mobile devices.
-- Understand the separation of content and presentation.
-
-## Technologies Used
-
-- **HTML5** — webpage structure and content.
-- **CSS3** — styling, layout, and responsive design.
-- **Visual Studio Code** — code editor.
-- **Git and GitHub** — version control and source code hosting.
-- **GitHub Pages** — website deployment.
-
-## Features
-
-- Personal introduction and profile image.
-- About Me section.
-- Technical and soft skills section.
-- Hobbies and interests section.
-- Contact section with an email link.
-- Navigation links to webpage sections.
-- Responsive layout for smaller screens.
-- Hover effects and keyboard focus indicators.
-- Separate HTML and CSS files for easier maintenance.
-
-## Project Structure
-
+### Project Structure
 ```text
-veda-task-2/
+veda-task-2-personal-introduction/
 ├── index.html
 ├── style.css
-└── README.md
+├── README.md
+└── screenshots/
 ```
 
-## How to Run Locally
+### Live Demo
+[View My Personal Introduction Page](https://mullapatinagalaxmi-2005.github.io/veda-task-2-personal-introduction/)
 
-1. Clone or download the project repository.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in a web browser.
-4. Navigate through the About, Skills, Hobbies, and Contact sections.
+### GitHub Repository
+[View Source Code on GitHub](https://github.com/mullapatinagalaxmi-2005/veda-task-2-personal-introduction)
 
-Alternatively, run this command in the VS Code PowerShell terminal:
+### What I Learned
+- Creating a webpage using semantic HTML
+- Styling a website using CSS
+- Designing responsive layouts with media queries
+- Using navigation links and hover effects
+- Publishing a static website using GitHub Pages
 
-```powershell
-start index.html
-```
+### Author
+**Nagalaxmi**  
+Computer Science Engineering Student
 
-## Deployment
+### Acknowledgement
+I thank Veda Technology for providing this opportunity to practice web development and improve my technical skills through a practical project.
 
-The project can be deployed for free using GitHub Pages.
-
-1. Create a public GitHub repository.
-2. Upload `index.html`, `style.css`, and `README.md`.
-3. Open the repository's **Settings → Pages**.
-4. Select **Deploy from a branch**.
-5. Select the `main` branch and the `/ (root)` folder.
-6. Save the settings and wait for deployment.
-7. Open the published website URL to verify that it works.
-
-## Testing
-
-The following checks should be completed before submission:
-
-- Verify that the webpage opens successfully.
-- Check that all navigation links work correctly.
-- Confirm that the profile image loads.
-- Check that all sections display the correct content.
-- Test the layout on desktop and mobile screen sizes.
-- Verify that the CSS file is linked correctly.
-- Confirm that the deployed website is publicly accessible.
-
-## Learning Outcomes
-
-Through this project, I practiced writing semantic HTML, styling elements with CSS, creating responsive layouts, organizing project files, and preparing a website for deployment.
-
-## Future Improvements
-
-- Add a dedicated projects section.
-- Include a downloadable resume.
-- Add verified professional profile links.
-- Improve accessibility and cross-browser compatibility.
-
-## Author
-
-**Nagalaxmi**
-
-Computer Science and Engineering Student
-
-## Internship Details
-
-- **Organization:** Veda Technology
-- **Track:** Web Development
-- **Task:** Task 2 — Personal Introduction Page
-- **Level:** Level 1
-- **Day:** Day 2
-
-## License
-
-This project was developed for educational and internship purposes.
+---
+*Created as part of the Veda Technology Web Development Internship — Task 2.*
